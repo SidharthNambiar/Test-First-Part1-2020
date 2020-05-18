@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 
 function repeat(str, num) {
+    
 
     let result = ''
     if (num !== 0) {
